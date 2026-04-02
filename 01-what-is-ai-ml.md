@@ -89,4 +89,4 @@ You gave it examples — not rules. That is the entire soul of ML.
 ---
 
 *Part of my AI/ML notes series — one concept documented per day.*
-LinkedIn post → https://www.linkedin.com/posts/soumya-dodamani_dotnet-ai-rag-share-7445497006179123200-ToZK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIqRfgB9q57kOF3oEPWKkRR61-VN5IONck
+*LinkedIn post → [Day 01 — What is AI? What is ML?](https://www.linkedin.com/posts/soumya-dodamani_dotnet-ai-rag-share-7445497006179123200-ToZK)*
