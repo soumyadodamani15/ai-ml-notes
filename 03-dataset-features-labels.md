@@ -133,4 +133,4 @@ print(f"Test size:     {len(X_test)}")   # → 2
 ---
 
 *Part of my AI/ML notes series — one concept documented per day.*
-*LinkedIn post → [Day 03 — What is a Dataset?]()*
+*LinkedIn post → [Day 03 — What is a Dataset?](https://www.linkedin.com/posts/activity-7446132996405067777-6wkX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIqRfgB9q57kOF3oEPWKkRR61-VN5IONck)*
