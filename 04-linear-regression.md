@@ -120,4 +120,4 @@ print(f"Predicted price for 110sqm: €{prediction[0]:,.0f}")
 ---
 
 *Part of my AI/ML notes series — one concept documented per day.*
-*LinkedIn post → [Day 04 — Linear Regression]()*
+*LinkedIn post → [Day 04 — Linear Regression](https://www.linkedin.com/posts/activity-7446662953371680768-fOt7?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIqRfgB9q57kOF3oEPWKkRR61-VN5IONck)*
