@@ -124,4 +124,4 @@ print(f"Probability of passing: {prob[0][1]:.2f}")
 ---
 
 *Part of my AI/ML notes series — one concept documented per day.*
-*LinkedIn post → [Day 05 — Logistic Regression]()*
+*LinkedIn post → [Day 05 — Logistic Regression](https://www.linkedin.com/posts/activity-7447369367287291904-8p4d?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIqRfgB9q57kOF3oEPWKkRR61-VN5IONck)*
