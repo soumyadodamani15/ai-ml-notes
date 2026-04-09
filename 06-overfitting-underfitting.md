@@ -133,4 +133,4 @@ print(f"Overfit MSE:  {mean_squared_error(y, model7.predict(X7)):.2f}")
 ---
 
 *Part of my AI/ML notes series — one concept documented per day.*
-*LinkedIn post → [Day 06 — Overfitting vs Underfitting]()*
+*LinkedIn post → [Day 06 — Overfitting vs Underfitting](https://www.linkedin.com/posts/soumya-dodamani_dotnet-ai-rag-share-7447569298639798272-GDRB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIqRfgB9q57kOF3oEPWKkRR61-VN5IONck)*
