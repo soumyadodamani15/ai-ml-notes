@@ -138,4 +138,4 @@ print(f"Average score:   {scores.mean():.2f}")
 ---
 
 *Part of my AI/ML notes series — one concept documented per day.*
-*LinkedIn post → [Day 07 — Train, Validation and Test Split]()*
+*LinkedIn post → [Day 07 — Train, Validation and Test Split](https://www.linkedin.com/posts/soumya-dodamani_dotnet-ai-rag-share-7447949947146158081-T9yR?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIqRfgB9q57kOF3oEPWKkRR61-VN5IONck)*
