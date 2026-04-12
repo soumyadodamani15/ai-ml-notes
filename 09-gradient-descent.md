@@ -229,4 +229,4 @@ print(f"\nFinal: m = {m:.2f}, b = {b:.2f}")
 ---
 
 *Part of my AI/ML notes series — one concept documented per day.*
-*LinkedIn post → [Day 09 — Gradient Descent]()*
+*LinkedIn post → [Day 09 — Gradient Descent](https://www.linkedin.com/posts/soumya-dodamani_ai-machinelearning-deeplearning-share-7448800687653740544-ChOH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIqRfgB9q57kOF3oEPWKkRR61-VN5IONck)*
