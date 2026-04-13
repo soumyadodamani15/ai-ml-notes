@@ -218,4 +218,4 @@ print(df)
 ---
 
 *Part of my AI/ML notes series — one concept documented per day.*
-*LinkedIn post → [Day 10 — Feature Engineering and Normalisation]()*
+*LinkedIn post → [Day 10 — Feature Engineering and Normalisation](https://www.linkedin.com/posts/activity-7449078421181100032-Sy4b?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIqRfgB9q57kOF3oEPWKkRR61-VN5IONck)*
